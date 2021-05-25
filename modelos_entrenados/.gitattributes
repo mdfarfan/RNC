@@ -1,1 +1,2 @@
 *.h5 filter=lfs diff=lfs merge=lfs -text
+C:/Users/DANIEL/Documents/GitHub/RNC/dataset/RNC/modelos_entrenados/RED1.h5 filter=lfs diff=lfs merge=lfs -text
